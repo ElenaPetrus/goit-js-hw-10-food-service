@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AAGA,aAHA,QAAA,oBAGAA,QAAQC,IAAI","file":"src.bb531b00.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss'\n\n\nconsole.log(\"Hello! It is me\");"]}
