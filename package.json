@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://ElenaPetrus.github.io/goit-js-hw-10-food-service",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "dev": "parcel src/*.html -p 7777",
     "serve": "parcel src/index.html -p 7777 --open",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/",
     "deploy":"gh-pages -d dist",
